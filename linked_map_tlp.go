@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/ploynomail/linkedMap"
+	linkedMap "github.com/ploynomail/linkedmap"
 )
 
 // linked map
